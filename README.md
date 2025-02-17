@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6ZHtfd4V)
 # template-projeto-analex-bcc5003
 Este repositório contém o código inicial de referência para o desenvolvimento da fase de Análise Léxica do Projeto do Compilador para a linguagem TPP.
 
@@ -142,3 +143,5 @@ $
 2. __Capítulo 3:__ _Análise Léxica_
 
     AHO, Alfred V. et al. Compiladores: princípios, técnicas e ferramentas. 2. ed. São Paulo, SP: Pearson Addison-Wesley, 2008. x, 634 p. ISBN 9788588639249.
+
+Para rodar e testar o código utilize "pytest analex_test.py"
