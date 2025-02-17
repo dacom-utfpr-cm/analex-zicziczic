@@ -143,3 +143,5 @@ $
 2. __Capítulo 3:__ _Análise Léxica_
 
     AHO, Alfred V. et al. Compiladores: princípios, técnicas e ferramentas. 2. ed. São Paulo, SP: Pearson Addison-Wesley, 2008. x, 634 p. ISBN 9788588639249.
+
+Para rodar e testar o código utilize "pytest analex_test.py"
